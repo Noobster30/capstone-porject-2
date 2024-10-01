@@ -1,0 +1,38 @@
+.my-image{
+    border-radius: 50%;
+}
+.programming{
+    width: 20rem;
+    height: auto;
+    float: left;
+}
+.about-me{
+    background-color: #DEF6AC;
+}
+.my-heading{
+    text-align: center;
+}
+.skills{
+    background-color: #b2e0f8;
+    color: white;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+ .contact-me{
+    background-color: whitesmoke;
+    color: #1c97e3;
+ }
+ a{
+    text-decoration: none;
+ }
+ 
+ 
